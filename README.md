@@ -5,7 +5,7 @@
 
 ---
 
-## 📝 语言分布
+## 📝 公开仓库语言分布
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zevision&layout=compact&hide_border=true&theme=dark)
 
